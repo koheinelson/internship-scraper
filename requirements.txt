@@ -1,6 +1,6 @@
-requests
-beautifulsoup4
-pandas
+undetected-chromedriver
 selenium
-lxml
-python-dotenv
+beautifulsoup4
+certifi
+pandas
+sqlite3
